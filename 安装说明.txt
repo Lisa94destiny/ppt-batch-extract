@@ -1,0 +1,38 @@
+# PPT内容提取器 安装说明 / Installation Instructions
+
+## 可执行文件 / Executable File
+- 文件名 / Filename: PPT内容提取器.exe
+- 位置 / Location: D:\测试-C\PPT解析\dist\PPT内容提取器.exe
+- 大小 / Size: 38.5 MB
+
+## 安装步骤 / Installation Steps
+
+### Windows:
+1. 将 PPT内容提取器.exe 复制到任意目录 / Copy PPT内容提取器.exe to any directory
+2. 双击运行程序 / Double-click to run the program
+3. 首次运行可能需要几秒钟加载 / First run may take a few seconds to load
+
+### 可选步骤 / Optional Steps:
+- 创建桌面快捷方式 / Create desktop shortcut
+- 添加到开始菜单 / Add to start menu
+- 设置文件关联（.ppt, .pptx）/ Set file associations (.ppt, .pptx)
+
+## 系统要求 / System Requirements
+- Windows 10 或更高版本 / Windows 10 or higher
+- 至少 100MB 可用磁盘空间 / At least 100MB free disk space
+- 支持拖拽操作的文件管理器 / File manager supporting drag & drop
+
+## 使用说明 / Usage Instructions
+1. 启动程序 / Launch the program
+2. 拖拽PPT文件到界面 / Drag PPT files to the interface
+3. 选择提取模式 / Select extraction mode
+4. 点击开始提取 / Click start extraction
+5. 查看输出结果 / View output results
+
+## 故障排除 / Troubleshooting
+- 如果程序无法启动，请检查Windows Defender设置 / If program won't start, check Windows Defender settings
+- 如果提取失败，请确保PPT文件未被其他程序占用 / If extraction fails, ensure PPT files are not in use by other programs
+- 如果遇到权限问题，请以管理员身份运行 / If permission issues occur, run as administrator
+
+## 卸载 / Uninstallation
+直接删除可执行文件即可 / Simply delete the executable file
